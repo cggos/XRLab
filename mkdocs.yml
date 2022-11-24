@@ -96,6 +96,9 @@ extra:
         
 nav:
   - Home: 'index.md'
+  
+  - Metaverse: 
+    - Overview: meta/README.md
 
   - AR SDK: 
     - Overview: sdk/README.md
@@ -103,3 +106,7 @@ nav:
   - AR Functions: 
     - Overview: func/README.md
     - Tracking: func/track.md
+
+  - Applications:
+    - Overview: app/README.md
+    - AR Glass: app/ar_glass.md

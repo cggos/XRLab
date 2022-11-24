@@ -4,11 +4,8 @@
 
 ## Overview
 
-- [Inside-out v Outside-in: How VR tracking works, and how it's going to change](https://www.wareable.com/vr/inside-out-vs-outside-in-vr-tracking-343)
 
-- [Inside-out tracking](https://xinreality.com/wiki/Inside-out_tracking)
-
-### Outside-in vs Inside-out
+## Outside-in & Inside-out
 
 <p align="center">
   <img src="../img/outside_inside_00.png" style="width:60%">
@@ -18,8 +15,11 @@
   <img src="../img/outside_inside_01.png" style="width:80%">
 </p>
 
+- [Inside-out v Outside-in: How VR tracking works, and how it's going to change](https://www.wareable.com/vr/inside-out-vs-outside-in-vr-tracking-343)
 
-## Outside-in
+- [Inside-out tracking](https://xinreality.com/wiki/Inside-out_tracking)
+
+### Outside-in
 
 <p align="center">
   <img src="../img/outside_in.png" style="width:80%">
@@ -32,10 +32,12 @@
 精度高、延迟低的外向内追踪技术是目前主流，但它仍然不是人们追求的完美形态，外部环境准备与其可移动范围限制一直与人诟病，就在这时候，HoloLens带着不依赖任何外部传感器的“内向外追踪技术”（Inside-out Tracking）现身江湖，透过环境感知摄像头、深度摄像头以及惯性测单元等部件，实现位置追踪。
 
 
-## Inside-out
+### Inside-out
 
 <p align="center">
   <img src="../img/inside_out.png" style="width:80%">
 </p>
 
 内向外追踪技术不需任何外接传感器，因此可以在无硬件搭建、无标记的环境中使用，不受遮挡问题影响，也不受传感器监测范围限制，因此拥有更多样的移动性与更高的自由度。也因为不依靠外接设备进行运算，对于头戴设备的要求更高，精度等相比外向内追踪技术也就不会那么高。
+
+

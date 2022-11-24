@@ -1,18 +1,83 @@
 # XR Lab
 
+* XR Blog (CGABC): https://cgabc.xyz/categories/XR/
+
 ---
 
 ## Overview
 
+* VR
 
-## AR Knowledge
+* AR
+
+* MR
+
+
+### Tech Stack
+
+<p align="center">
+  <img src="./img/tech_stack_unity_xr.png" style="width:100%">
+</p>
+
+
+### Full-stack Developer
+
+<p align="center">
+  <img src="./img/tech_stack_full.png" style="width:100%">
+</p>
+
+
+## AR
+
+### 硬件系统
+
+*	基于高清摄像机的舞台AR系统
+
+*	基于普通智能手机的AR系统
+
+*	基于包含深度摄像模块的手持设备AR系统: Google Project Tango
+
+*	基于单目智能眼睛的AR系统: Google Glass
+
+*	基于双目可穿透式智能眼睛的AR系统: Microsoft HoloLens
+
+*	基于投影的AR系统
+
+### 人机交互系统
+
+* 手势识别交互
+  - 2D静态手势识别
+  - 2D动态手势识别
+  - 3D手势识别
+
+* 语音识别交互
+
+* 眼动追踪交互
+
+### 发展趋势
+
+* 软件系统
+  - 深度学习
+  - 云计算
+  - 大范围三维重建
+
+* 硬件系统
+  - 光场成像: Magic Leap
+  - 半导体光学
+	
+* 人机交互
+  - 新形态用户界面
+  - 新形态交互技术
+
+
+### Knowledge
 
 * 目前高速场景主要集中在 VR、AR 领域，为了避免眩晕感，VR、AR 设备的总体延迟不能超过 20 毫秒，为此，留给位置追踪设备的延迟是不能超过 12 毫秒的。
 
 * 在高速度高精度的姿态追踪方面，vSLAM应用于VR/AR一般至少需要90fps的刷新率才有可能解决眩晕和渲染效果
 
 
-## AR News
+### News
 
 * 2014年，在Facebook收购Oculus VR后，谷歌又为AR公司Magic leap公司投资了5.42亿美元
 
